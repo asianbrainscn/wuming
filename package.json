@@ -1,0 +1,12 @@
+{
+  "name": "wuming",
+  "version": "1.0.0",
+  "description": "School-safe WebSocket relay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}
